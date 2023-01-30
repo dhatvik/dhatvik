@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhatvik MP Here</h1>
 <h3 align="center">A passionate Web developer and Data Science Enthusiast.</h3>
 <img align="center" alt="coding" width="400" src="https://as2.ftcdn.net/v2/jpg/01/35/92/85/1000_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhatvik&label=Profile%20views&color=0e75b6&style=flat" alt="dhatvik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhatvik" alt="dhatvik" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 💬 Ask me about **Angular,Data Science**
+- 💬 Ask me about **Computer Vision and Web development**
 
 - 📫 How to reach me **dhatvikmpd2002@gmail.com**
 
